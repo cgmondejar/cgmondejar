@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/cgmondejar/">Chrisvem Mondejar</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I’m passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects that strengthen real-world security practices. My work spans vulnerability management, threat detection, and improving security operations, allowing me to explore and respond to the ever-evolving threat landscape. As I transition into the cybersecurity field, I’m actively building strong foundations in core security principles while contributing practical solutions and continuously learning. I have a strong curiosity for new knowledge and never stop learning, always seeking to grow and stay ahead in this dynamic field. I’m keen to collaborate, share knowledge, and support the community in advancing effective security practices.
+I’m passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects that strengthen real-world security practices. My work spans vulnerability management, threat detection, and improving security operations, allowing me to explore and respond to the ever-evolving threat landscape. As I transition into the cybersecurity field, I’m actively building strong foundations in core security principles while contributing practical solutions and continuously learning. I have a strong curiosity for new knowledge and never stop learning, always seeking to grow and stay ahead in this dynamic field. 
 
 ## ⚠️ Vulnerability Management Projects
 
