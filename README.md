@@ -10,6 +10,7 @@ I’m passionate about cybersecurity and enjoy tackling complex challenges throu
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cgmondejar/threat-hunting-scenario-tor)**
+- **[Pwd Spray to Full Compromise - Threat Hunt Challenge](https://github.com/cgmondejar/threat-hunt-challenges/blob/main/Pwd%20Spray%20to%20Full%20Compromise.md)**
 <!--
 <hr/>
 
